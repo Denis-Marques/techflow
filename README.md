@@ -44,3 +44,4 @@ Foi adotada a metodologia ágil Kanban, utilizando o GitHub Projects para o plan
 
 ## Controle de Qualidade
 O projeto utiliza testes automatizados com a biblioteca PyT
+Testes automatizados implementados com Pytest.
